@@ -1,4 +1,4 @@
-##WAP using function using pointers to compute the sum of all elements stored in an array. Also display the base address and address of each element of an array.
+**WAP using function using pointers to compute the sum of all elements stored in an array. Also display the base address and address of each element of an array.**
 #include <bits/stdc++.h>
 using namespace std;
 
